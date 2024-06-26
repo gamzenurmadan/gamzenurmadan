@@ -3,7 +3,7 @@
 
 - 🔭 I graduated from Izmir Institute of Technology (Computer Engineering)
 
-- 🌱 I’m currently learning **Java Spring Boot**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **gamzenurmadan@outlook.com**
 
